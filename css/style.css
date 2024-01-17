@@ -92,10 +92,10 @@ a{
 
 /*SLIDER*/
 .slide1{
-background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/bg_banner1.jpg');
+background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/bg_banner1.jpg');
 }
 .slide2{
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/bg_banner2.jpg');    
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../images/bg_banner2.jpg');    
 }
 
 .owl-prev,
